@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\quiwiri\workspace\appAndroid\.metadata\.plugins\org.eclipse.jdt.core
+2598210772.index
+2482807753.index
+1597090716.index
